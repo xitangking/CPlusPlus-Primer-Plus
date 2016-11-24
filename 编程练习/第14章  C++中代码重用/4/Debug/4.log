@@ -1,0 +1,4 @@
+﻿  main.cpp
+d:\github\c-primer-plus\编程练习\第14章  c++中代码重用\4\person.h(138): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+  4.vcxproj -> D:\github\C-Primer-Plus\编程练习\第14章  C++中代码重用\Debug\4.exe
+  4.vcxproj -> D:\github\C-Primer-Plus\编程练习\第14章  C++中代码重用\Debug\4.pdb (Partial PDB)

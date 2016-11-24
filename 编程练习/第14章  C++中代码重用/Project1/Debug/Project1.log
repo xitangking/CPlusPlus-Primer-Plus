@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Project1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  useemp.cpp
+useemp.obj : error LNK2019: 无法解析的外部符号 "public: virtual __thiscall abstr_emp::~abstr_emp(void)" (??1abstr_emp@@UAE@XZ)，该符号在函数 __unwindfunclet$??0fink@@QAE@ABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@00V12@@Z$1 中被引用
+D:\github\C-Primer-Plus\编程练习\第14章  C++中代码重用\Debug\5.exe : fatal error LNK1120: 1 个无法解析的外部命令

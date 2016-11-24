@@ -1,0 +1,5 @@
+﻿  4.2.cpp
+d:\github\c-primer-plus\编程练习\第9章\第9章\4.2.cpp(18): warning C4244: “+=”: 从“const double”转换到“int”，可能丢失数据
+d:\github\c-primer-plus\编程练习\第9章\第9章\4.2.cpp(39): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+  第9章.vcxproj -> D:\github\C-Primer-Plus\编程练习\第9章\Debug\第9章.exe
+  第9章.vcxproj -> D:\github\C-Primer-Plus\编程练习\第9章\Debug\第9章.pdb (Partial PDB)

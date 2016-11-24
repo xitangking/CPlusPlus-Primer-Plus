@@ -1,0 +1,5 @@
+﻿  main.cpp
+d:\github\c-primer-plus\编程练习\第16章 string类和标准模板库\chapter16\2\main.cpp(10): warning C4018: “<”: 有符号/无符号不匹配
+d:\github\c-primer-plus\编程练习\第16章 string类和标准模板库\chapter16\2\main.cpp(19): warning C4018: “<”: 有符号/无符号不匹配
+  2.vcxproj -> D:\github\C-Primer-Plus\编程练习\第16章 string类和标准模板库\chapter16\Debug\2.exe
+  2.vcxproj -> D:\github\C-Primer-Plus\编程练习\第16章 string类和标准模板库\chapter16\Debug\2.pdb (Partial PDB)

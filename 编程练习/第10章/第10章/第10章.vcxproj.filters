@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="源文件\1">
+      <UniqueIdentifier>{08308a61-afda-4b74-bbd1-9118b466eb17}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\2">
+      <UniqueIdentifier>{7760150d-5b30-48b7-a6c1-b5c2dc94efe9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\3">
+      <UniqueIdentifier>{c3bafa8d-fe7a-4554-b558-9b0b39424966}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\4">
+      <UniqueIdentifier>{a8794ec0-dd8f-44d0-9db6-6fa5ba1cf8fa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\5">
+      <UniqueIdentifier>{7f611b1e-89ff-47e5-9579-be8b6b943c7b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\6">
+      <UniqueIdentifier>{5699f329-5d39-45c0-b40c-5bcc7742fb34}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\7">
+      <UniqueIdentifier>{f6f27ceb-d91a-4d25-aa3e-c09dd0a0579c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\8">
+      <UniqueIdentifier>{e79cbf82-daab-4af0-9d9a-aac031546fd2}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="BankAccount.cpp">
+      <Filter>源文件\1</Filter>
+    </ClCompile>
+    <ClCompile Include="Person.cpp">
+      <Filter>源文件\2</Filter>
+    </ClCompile>
+    <ClCompile Include="main2.cpp">
+      <Filter>源文件\2</Filter>
+    </ClCompile>
+    <ClCompile Include="main1.cpp">
+      <Filter>源文件\1</Filter>
+    </ClCompile>
+    <ClCompile Include="Golf.cpp">
+      <Filter>源文件\3</Filter>
+    </ClCompile>
+    <ClCompile Include="Sales.cpp">
+      <Filter>源文件\4</Filter>
+    </ClCompile>
+    <ClCompile Include="main4.cpp">
+      <Filter>源文件\4</Filter>
+    </ClCompile>
+    <ClCompile Include="main5.cpp">
+      <Filter>源文件\5</Filter>
+    </ClCompile>
+    <ClCompile Include="Stack.cpp">
+      <Filter>源文件\5</Filter>
+    </ClCompile>
+    <ClCompile Include="Move.cpp">
+      <Filter>源文件\6</Filter>
+    </ClCompile>
+    <ClCompile Include="main6.cpp">
+      <Filter>源文件\6</Filter>
+    </ClCompile>
+    <ClCompile Include="Plorg.cpp">
+      <Filter>源文件\7</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>源文件\7</Filter>
+    </ClCompile>
+    <ClCompile Include="List.cpp">
+      <Filter>源文件\8</Filter>
+    </ClCompile>
+    <ClCompile Include="main8.cpp">
+      <Filter>源文件\8</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="BankAccount.h">
+      <Filter>源文件\1</Filter>
+    </ClInclude>
+    <ClInclude Include="Person.h">
+      <Filter>源文件\2</Filter>
+    </ClInclude>
+    <ClInclude Include="Golf.h">
+      <Filter>源文件\3</Filter>
+    </ClInclude>
+    <ClInclude Include="Sales.h">
+      <Filter>源文件\4</Filter>
+    </ClInclude>
+    <ClInclude Include="Stack.h">
+      <Filter>源文件\5</Filter>
+    </ClInclude>
+    <ClInclude Include="Move.h">
+      <Filter>源文件\6</Filter>
+    </ClInclude>
+    <ClInclude Include="Plorg.h">
+      <Filter>源文件\7</Filter>
+    </ClInclude>
+    <ClInclude Include="List.h">
+      <Filter>源文件\8</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

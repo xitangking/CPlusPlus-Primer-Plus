@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="源文件\1">
+      <UniqueIdentifier>{cceb93b7-066f-44f6-815c-7197c03241de}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\2">
+      <UniqueIdentifier>{d04e774f-ff1e-4fe8-a6f7-340104c15dd0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\3">
+      <UniqueIdentifier>{5da9a4a2-b5b9-41af-b9a2-0c134fdd0f27}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\4">
+      <UniqueIdentifier>{88c06b78-6586-4363-9841-bca716d64af6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\6">
+      <UniqueIdentifier>{e77f9727-5ae0-4e3f-8242-be87976c11e9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\7">
+      <UniqueIdentifier>{05d578a3-79f6-4e32-a34d-8d56764b9def}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Vector2.cpp">
+      <Filter>源文件\2</Filter>
+    </ClCompile>
+    <ClCompile Include="main2.cpp">
+      <Filter>源文件\2</Filter>
+    </ClCompile>
+    <ClCompile Include="main3.cpp">
+      <Filter>源文件\3</Filter>
+    </ClCompile>
+    <ClCompile Include="Time.cpp">
+      <Filter>源文件\4</Filter>
+    </ClCompile>
+    <ClCompile Include="main4.cpp">
+      <Filter>源文件\4</Filter>
+    </ClCompile>
+    <ClCompile Include="Stonewt.cpp">
+      <Filter>源文件\6</Filter>
+    </ClCompile>
+    <ClCompile Include="Complex.cpp">
+      <Filter>源文件\7</Filter>
+    </ClCompile>
+    <ClCompile Include="main7.cpp">
+      <Filter>源文件\7</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Vector2.h">
+      <Filter>源文件\2</Filter>
+    </ClInclude>
+    <ClInclude Include="Time.h">
+      <Filter>源文件\4</Filter>
+    </ClInclude>
+    <ClInclude Include="Stonewt.h">
+      <Filter>源文件\6</Filter>
+    </ClInclude>
+    <ClInclude Include="Complex.h">
+      <Filter>源文件\7</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
